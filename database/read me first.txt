@@ -1,0 +1,2 @@
+import "nenasala.sql" database in to mhpmyadmin examp server.
+database name is "nenasala".
